@@ -1,6 +1,6 @@
 # Deploying StarThinker UI For Enterprise Multi User
 
-When multiple users need to deploy and coordinate multiple reipces for multiple clients, stand up the UI.
+When multiple users need to deploy and coordinate multiple recipes for multiple clients, stand up the UI.
 The UI allows each user to authenticate and manage solutions leaving the development team free to create
 and maintain the technical recipe scripts.  The UI deploys on AppEngine with a distributed worker back
 end on Google Cloud Instances.  The instructions are the same for installing or updating StarThinker,
